@@ -28,7 +28,7 @@
 
 from __future__ import annotations
 
-from collections import OrderedDict
+from collections import Ordered
 import json
 import sys
 import yaml
